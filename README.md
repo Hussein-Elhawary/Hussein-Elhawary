@@ -73,11 +73,11 @@ Tools and Technologies
 <br>
 <p align="center">
 <a href="https://github.com/Hussein-Elhawary/Online-Collaborative-Text-Editor/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-Elhawary&repo=Online-Collaborative-Text-Editor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-Elhawary&repo=Online-Collaborative-Text-Editor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&description_lines_count=5" />
 </a>   
   
 <a href="https://github.com/Hussein-Elhawary/cReddit-Testing/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-Elhawary&repo=cReddit-Testing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussein-Elhawary&repo=cReddit-Testing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&description_lines_count=5" />
 </a>    
 
 </p>
